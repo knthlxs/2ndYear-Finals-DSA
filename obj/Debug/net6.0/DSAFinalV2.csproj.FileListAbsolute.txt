@@ -1,0 +1,14 @@
+C:\Users\kenth\source\repos\DSAFinalV2\bin\Debug\net6.0\DSAFinalV2.exe
+C:\Users\kenth\source\repos\DSAFinalV2\bin\Debug\net6.0\DSAFinalV2.deps.json
+C:\Users\kenth\source\repos\DSAFinalV2\bin\Debug\net6.0\DSAFinalV2.runtimeconfig.json
+C:\Users\kenth\source\repos\DSAFinalV2\bin\Debug\net6.0\DSAFinalV2.dll
+C:\Users\kenth\source\repos\DSAFinalV2\bin\Debug\net6.0\DSAFinalV2.pdb
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.AssemblyInfoInputs.cache
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.AssemblyInfo.cs
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.csproj.CoreCompileInputs.cache
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.dll
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\refint\DSAFinalV2.dll
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.pdb
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\DSAFinalV2.genruntimeconfig.cache
+C:\Users\kenth\source\repos\DSAFinalV2\obj\Debug\net6.0\ref\DSAFinalV2.dll

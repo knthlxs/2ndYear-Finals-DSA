@@ -1,0 +1,14 @@
+C:\Users\kenth\source\repos\DSAFinalProject\bin\Debug\net6.0\DSAFinalProject.exe
+C:\Users\kenth\source\repos\DSAFinalProject\bin\Debug\net6.0\DSAFinalProject.deps.json
+C:\Users\kenth\source\repos\DSAFinalProject\bin\Debug\net6.0\DSAFinalProject.runtimeconfig.json
+C:\Users\kenth\source\repos\DSAFinalProject\bin\Debug\net6.0\DSAFinalProject.dll
+C:\Users\kenth\source\repos\DSAFinalProject\bin\Debug\net6.0\DSAFinalProject.pdb
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.AssemblyInfoInputs.cache
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.AssemblyInfo.cs
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.dll
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\refint\DSAFinalProject.dll
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.pdb
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\DSAFinalProject.genruntimeconfig.cache
+C:\Users\kenth\source\repos\DSAFinalProject\obj\Debug\net6.0\ref\DSAFinalProject.dll
